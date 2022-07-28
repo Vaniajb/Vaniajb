@@ -25,7 +25,7 @@ Estudando e se dedicando a linguagem Java.
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/338224_W0ngKhTk.png">
 </div>
 ##
 <div>
